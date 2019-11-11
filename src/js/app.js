@@ -22,7 +22,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             //When the game starts, show the dice in the middle
             game.elMiddleDice.style.display = "block";
             //Show the right dice side, according to the randomly generated number
-            game.elMiddleDice.src = `../img/dice-${dice}.png`;
+            game.elMiddleDice.src = `img/dice-${dice}.png`;
 
             // The logic
             if (dice !== 1) {
