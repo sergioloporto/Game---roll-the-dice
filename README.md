@@ -7,3 +7,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
+Game url: https://sergioloporto.github.io/Game---roll-the-dice/dist/
